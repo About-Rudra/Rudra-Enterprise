@@ -1,0 +1,111 @@
+2025/05/31-10:00:49.386 9188 Reusing MANIFEST C:\WhatsappSender\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/31-10:00:49.386 9188 Recovering log #13
+2025/05/31-10:00:49.386 9188 Reusing old log C:\WhatsappSender\.wwebjs_auth\session\Default\Local Storage\leveldb/000013.log 
+2025/06/01-14:59:16.748 33cc Level-0 table #17: started
+2025/06/01-14:59:16.754 33cc Level-0 table #17: 17749 bytes OK
+2025/06/01-14:59:16.756 33cc Delete type=0 #13
+2025/06/02-01:59:47.455 aff4 Level-0 table #19: started
+2025/06/02-01:59:47.600 aff4 Level-0 table #19: 13900 bytes OK
+2025/06/02-01:59:47.602 aff4 Delete type=0 #16
+2025/06/02-01:59:47.603 a7e4 Compacting 4@0 + 1@1 files
+2025/06/02-01:59:47.608 a7e4 Generated table #20@0: 170 keys, 10012 bytes
+2025/06/02-01:59:47.609 a7e4 Compacted 4@0 + 1@1 files => 10012 bytes
+2025/06/02-01:59:47.610 a7e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/02-01:59:47.611 a7e4 Delete type=2 #8
+2025/06/02-01:59:47.611 a7e4 Delete type=2 #11
+2025/06/02-01:59:47.611 a7e4 Delete type=2 #14
+2025/06/02-01:59:47.612 a7e4 Delete type=2 #17
+2025/06/02-01:59:47.612 a7e4 Delete type=2 #19
+2025/06/03-09:51:51.845 aa1c Level-0 table #22: started
+2025/06/03-09:51:51.852 aa1c Level-0 table #22: 14500 bytes OK
+2025/06/03-09:51:51.855 aa1c Delete type=0 #18
+2025/06/05-13:43:06.563 7a6c Level-0 table #24: started
+2025/06/05-13:43:06.571 7a6c Level-0 table #24: 15417 bytes OK
+2025/06/05-13:43:06.573 7a6c Delete type=0 #21
+2025/06/05-18:46:52.886 b1dc Level-0 table #26: started
+2025/06/05-18:46:52.895 b1dc Level-0 table #26: 13411 bytes OK
+2025/06/05-18:46:52.899 b1dc Delete type=0 #23
+2025/06/06-09:55:48.840 3164 Level-0 table #28: started
+2025/06/06-09:55:48.845 3164 Level-0 table #28: 12780 bytes OK
+2025/06/06-09:55:48.847 3164 Delete type=0 #25
+2025/06/06-09:55:48.848 3164 Compacting 4@0 + 1@1 files
+2025/06/06-09:55:48.854 3164 Generated table #29@0: 178 keys, 11236 bytes
+2025/06/06-09:55:48.854 3164 Compacted 4@0 + 1@1 files => 11236 bytes
+2025/06/06-09:55:48.856 3164 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-09:55:48.857 3164 Delete type=2 #20
+2025/06/06-09:55:48.857 3164 Delete type=2 #22
+2025/06/06-09:55:48.857 3164 Delete type=2 #24
+2025/06/06-09:55:48.857 3164 Delete type=2 #26
+2025/06/06-09:55:48.857 3164 Delete type=2 #28
+2025/06/07-09:08:42.639 46c Level-0 table #31: started
+2025/06/07-09:08:42.648 46c Level-0 table #31: 14010 bytes OK
+2025/06/07-09:08:42.652 46c Delete type=0 #27
+2025/06/07-15:00:04.069 9b90 Level-0 table #33: started
+2025/06/07-15:00:04.074 9b90 Level-0 table #33: 12784 bytes OK
+2025/06/07-15:00:04.077 9b90 Delete type=0 #30
+2025/06/08-10:22:49.327 c0f4 Level-0 table #35: started
+2025/06/08-10:22:49.336 c0f4 Level-0 table #35: 13662 bytes OK
+2025/06/08-10:22:49.339 c0f4 Delete type=0 #32
+2025/06/09-16:36:36.590 2abc Level-0 table #37: started
+2025/06/09-16:36:36.595 2abc Level-0 table #37: 14604 bytes OK
+2025/06/09-16:36:36.598 2abc Delete type=0 #34
+2025/06/09-16:36:36.599 2abc Compacting 4@0 + 1@1 files
+2025/06/09-16:36:36.604 2abc Generated table #38@0: 183 keys, 11328 bytes
+2025/06/09-16:36:36.605 2abc Compacted 4@0 + 1@1 files => 11328 bytes
+2025/06/09-16:36:36.606 2abc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/09-16:36:36.607 2abc Delete type=2 #29
+2025/06/09-16:36:36.607 2abc Delete type=2 #31
+2025/06/09-16:36:36.607 2abc Delete type=2 #33
+2025/06/09-16:36:36.607 2abc Delete type=2 #35
+2025/06/09-16:36:36.607 2abc Delete type=2 #37
+2025/06/10-11:23:25.306 91fc Level-0 table #40: started
+2025/06/10-11:23:25.461 91fc Level-0 table #40: 13316 bytes OK
+2025/06/10-11:23:25.464 91fc Delete type=0 #36
+2025/06/11-12:42:51.422 2e90 Level-0 table #42: started
+2025/06/11-12:42:51.428 2e90 Level-0 table #42: 13361 bytes OK
+2025/06/11-12:42:51.431 2e90 Delete type=0 #39
+2025/06/11-18:10:01.235 8294 Level-0 table #44: started
+2025/06/11-18:10:01.242 8294 Level-0 table #44: 14124 bytes OK
+2025/06/11-18:10:01.244 8294 Delete type=0 #41
+2025/06/12-13:55:25.514 b28c Level-0 table #46: started
+2025/06/12-13:55:25.518 b28c Level-0 table #46: 13136 bytes OK
+2025/06/12-13:55:25.520 b28c Delete type=0 #43
+2025/06/12-13:55:25.521 d4c8 Compacting 4@0 + 1@1 files
+2025/06/12-13:55:25.527 d4c8 Generated table #47@0: 183 keys, 10360 bytes
+2025/06/12-13:55:25.527 d4c8 Compacted 4@0 + 1@1 files => 10360 bytes
+2025/06/12-13:55:25.528 d4c8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/12-13:55:25.530 d4c8 Delete type=2 #38
+2025/06/12-13:55:25.530 d4c8 Delete type=2 #40
+2025/06/12-13:55:25.530 d4c8 Delete type=2 #42
+2025/06/12-13:55:25.531 d4c8 Delete type=2 #44
+2025/06/12-13:55:25.531 d4c8 Delete type=2 #46
+2025/06/12-17:13:30.334 bb2c Level-0 table #49: started
+2025/06/12-17:13:30.338 bb2c Level-0 table #49: 13218 bytes OK
+2025/06/12-17:13:30.340 bb2c Delete type=0 #45
+2025/06/13-10:29:41.143 9a00 Level-0 table #51: started
+2025/06/13-10:29:41.151 9a00 Level-0 table #51: 13603 bytes OK
+2025/06/13-10:29:41.153 9a00 Delete type=0 #48
+2025/06/13-19:23:04.785 d2fc Level-0 table #53: started
+2025/06/13-19:23:04.791 d2fc Level-0 table #53: 12928 bytes OK
+2025/06/13-19:23:04.793 d2fc Delete type=0 #50
+2025/06/14-11:01:25.160 d28c Level-0 table #55: started
+2025/06/14-11:01:25.165 d28c Level-0 table #55: 13464 bytes OK
+2025/06/14-11:01:25.167 d28c Delete type=0 #52
+2025/06/14-11:01:25.167 d28c Compacting 4@0 + 1@1 files
+2025/06/14-11:01:25.171 d28c Generated table #56@0: 183 keys, 10361 bytes
+2025/06/14-11:01:25.171 d28c Compacted 4@0 + 1@1 files => 10361 bytes
+2025/06/14-11:01:25.172 d28c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/14-11:01:25.173 d28c Delete type=2 #47
+2025/06/14-11:01:25.173 d28c Delete type=2 #49
+2025/06/14-11:01:25.173 d28c Delete type=2 #51
+2025/06/14-11:01:25.173 d28c Delete type=2 #53
+2025/06/14-11:01:25.173 d28c Delete type=2 #55
+2025/06/14-19:08:04.680 22a0 Level-0 table #58: started
+2025/06/14-19:08:04.687 22a0 Level-0 table #58: 14165 bytes OK
+2025/06/14-19:08:04.691 22a0 Delete type=0 #54
+2025/06/16-09:10:43.809 b140 Level-0 table #60: started
+2025/06/16-09:10:43.820 b140 Level-0 table #60: 16853 bytes OK
+2025/06/16-09:10:43.824 b140 Delete type=0 #57
+2025/06/19-11:04:58.482 4314 Level-0 table #62: started
+2025/06/19-11:04:58.495 4314 Level-0 table #62: 17437 bytes OK
+2025/06/19-11:04:58.499 4314 Delete type=0 #59

@@ -1,0 +1,12 @@
+{
+    "numbersPath": "numbers.txt",
+    "message": "Hello! This is an automated message.",
+    "mediaPath": "",
+    "delayMin": 5000,
+    "delayMax": 15000,
+    "batchSize": 5,
+    "maxMessagesPerSession": 50,
+    "maxRetries": 3,
+    "retryDelayMin": 2000,
+    "retryDelayMax": 5000
+}

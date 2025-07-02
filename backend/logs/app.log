@@ -1,0 +1,346 @@
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T17:28:13.944Z"}
+{"level":"info","message":"QR code generated. Scan it to authenticate.","timestamp":"2025-05-28T17:28:59.553Z"}
+{"level":"info","message":"QR code generated. Scan it to authenticate.","timestamp":"2025-05-28T17:29:59.355Z"}
+{"level":"info","message":"QR code generated. Scan it to authenticate.","timestamp":"2025-05-28T17:30:17.260Z"}
+{"level":"info","message":"QR code generated. Scan it to authenticate.","timestamp":"2025-05-28T17:30:19.359Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T17:30:20.004Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T17:42:51.153Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:43:30.087Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T17:43:30.137Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:44:29.310Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:44:49.306Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:45:09.314Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:45:29.316Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:45:49.328Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T17:46:07.001Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:46:16.170Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T17:46:16.226Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:47:15.763Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:47:35.725Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:47:55.713Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:48:15.738Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:48:35.750Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:49:47.635Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:50:47.670Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:51:07.633Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:51:27.652Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:51:47.671Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:52:07.657Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:53:19.272Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:54:19.271Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:54:39.298Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:54:59.293Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:55:19.300Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:55:39.305Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:56:51.014Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:57:51.048Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:58:11.063Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:58:31.068Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:58:51.054Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T17:59:11.059Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:00:23.198Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:01:23.228Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:01:43.230Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:02:03.255Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:02:23.252Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:02:43.256Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:03:55.690Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:04:55.692Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:05:15.704Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:05:35.719Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:05:55.740Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:06:15.731Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:07:27.978Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:08:27.967Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:08:47.974Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:09:08.001Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:09:28.017Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:09:48.018Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:11:00.345Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:12:00.333Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:12:20.354Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:12:40.352Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:13:00.363Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:13:20.371Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:14:32.084Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:15:32.104Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:15:52.122Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:16:12.130Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:16:32.132Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:16:52.147Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:18:04.178Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T18:18:22.616Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:18:33.085Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T18:18:33.106Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:19:32.695Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:19:52.641Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:20:12.690Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:20:32.677Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T18:20:45.842Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:20:59.616Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T18:20:59.659Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:21:58.968Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:22:18.897Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:22:38.907Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:22:58.914Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:23:18.914Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:24:30.750Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:25:30.752Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:25:50.747Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:26:10.737Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:26:30.745Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:26:50.769Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:28:03.202Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:29:03.199Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:29:23.209Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:29:43.226Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:30:03.246Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:30:23.261Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:31:35.391Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:32:35.406Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:32:55.413Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:33:15.430Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:33:35.437Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:33:55.452Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:35:07.570Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:36:07.555Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:36:27.558Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:36:47.578Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:37:07.584Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:37:27.619Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:38:38.927Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T18:39:16.266Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:39:22.291Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T18:39:22.299Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:40:22.180Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:40:42.217Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:41:02.220Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:41:22.196Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:41:42.205Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:42:53.019Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T18:43:31.227Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:43:36.537Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T18:43:36.550Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:44:36.412Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:44:56.418Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:45:16.439Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:45:36.445Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:45:56.441Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:47:07.708Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:48:07.720Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:48:27.709Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:48:47.725Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:49:07.744Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:49:27.745Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T18:50:21.780Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:50:27.201Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T18:50:27.211Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T18:51:09.588Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T18:51:21.519Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T18:51:23.942Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T18:51:23.942Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T18:51:23.945Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T18:51:24.706Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T18:51:25.452Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T18:51:25.739Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T18:51:26.533Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T18:52:18.531Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:05:36.229Z"}
+{"level":"error","message":"Initialization failed: Execution context was destroyed, most likely because of a navigation.","timestamp":"2025-05-28T19:05:43.275Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:06:43.560Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T19:06:49.253Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-28T19:06:49.262Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T19:06:49.263Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-28T19:07:15.003Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:07:24.762Z"}
+{"level":"error","message":"Media validation failed for uploads\\ab5f4a8b1c777ce669e6654044049e69: Unsupported file extension: ","timestamp":"2025-05-28T19:12:48.719Z"}
+{"level":"error","message":"Invalid number: 919822612701","timestamp":"2025-05-28T19:12:48.722Z"}
+{"level":"error","message":"Invalid number: 919923414267","timestamp":"2025-05-28T19:12:48.723Z"}
+{"level":"error","message":"Invalid number: 918600544999","timestamp":"2025-05-28T19:12:48.724Z"}
+{"level":"info","message":"Processed 0 messages successfully.","timestamp":"2025-05-28T19:12:48.724Z"}
+{"level":"error","message":"Invalid number: 919822612701","timestamp":"2025-05-28T19:18:04.099Z"}
+{"level":"error","message":"Invalid number: 919923414267","timestamp":"2025-05-28T19:18:04.100Z"}
+{"level":"error","message":"Invalid number: 918600544999","timestamp":"2025-05-28T19:18:04.101Z"}
+{"level":"info","message":"Processed 0 messages successfully.","timestamp":"2025-05-28T19:18:04.101Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:22:31.529Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-28T19:22:40.011Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T19:22:40.014Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-28T19:22:40.563Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:22:43.150Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:22:45.909Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:22:45.910Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T19:22:47.560Z"}
+{"level":"error","message":"Client disconnected: LOGOUT","timestamp":"2025-05-28T19:22:47.561Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:23:16.865Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:24:05.462Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-28T19:24:51.664Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-28T19:24:51.682Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T19:24:51.688Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-28T19:25:22.390Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:25:30.826Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-28T19:25:50.979Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-28T19:25:50.980Z"}
+{"level":"error","message":"Invalid number: +919822612701","timestamp":"2025-05-28T19:25:50.984Z"}
+{"level":"error","message":"Invalid number: +919923414267","timestamp":"2025-05-28T19:25:50.985Z"}
+{"level":"error","message":"Invalid number: +918600544999","timestamp":"2025-05-28T19:25:50.986Z"}
+{"level":"info","message":"Processed 0 messages successfully.","timestamp":"2025-05-28T19:25:50.986Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:27:47.839Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-28T19:27:54.976Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T19:27:54.978Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-28T19:27:55.445Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:27:58.386Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-28T19:28:19.748Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-28T19:28:19.749Z"}
+{"level":"info","message":"Parsed number: +919822612701, Country: IN, Valid: true","timestamp":"2025-05-28T19:28:19.757Z"}
+{"level":"info","message":"Sent text to 919822612701@c.us","timestamp":"2025-05-28T19:28:19.775Z"}
+{"level":"info","message":"Parsed number: +919923414267, Country: IN, Valid: true","timestamp":"2025-05-28T19:28:33.196Z"}
+{"level":"info","message":"Sent text to 919923414267@c.us","timestamp":"2025-05-28T19:28:33.206Z"}
+{"level":"info","message":"Parsed number: +918600544999, Country: IN, Valid: true","timestamp":"2025-05-28T19:28:47.149Z"}
+{"level":"info","message":"Sent text to 918600544999@c.us","timestamp":"2025-05-28T19:28:47.160Z"}
+{"level":"info","message":"Processed 3 messages successfully.","timestamp":"2025-05-28T19:29:02.113Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-28T19:31:06.844Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-28T19:31:06.845Z"}
+{"level":"error","message":"Media validation failed for uploads\\cb9dc8da35825bf07ec1565e2f54027b: Unsupported file extension: ","timestamp":"2025-05-28T19:31:06.847Z"}
+{"level":"info","message":"Parsed number: +919822612701, Country: IN, Valid: true","timestamp":"2025-05-28T19:31:06.849Z"}
+{"level":"info","message":"Sent text to 919822612701@c.us","timestamp":"2025-05-28T19:31:06.860Z"}
+{"level":"info","message":"Parsed number: +919923414267, Country: IN, Valid: true","timestamp":"2025-05-28T19:31:15.130Z"}
+{"level":"info","message":"Sent text to 919923414267@c.us","timestamp":"2025-05-28T19:31:15.139Z"}
+{"level":"info","message":"Parsed number: +918600544999, Country: IN, Valid: true","timestamp":"2025-05-28T19:31:23.615Z"}
+{"level":"info","message":"Sent text to 918600544999@c.us","timestamp":"2025-05-28T19:31:23.629Z"}
+{"level":"info","message":"Processed 3 messages successfully.","timestamp":"2025-05-28T19:31:29.736Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-28T19:32:02.201Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-28T19:32:02.202Z"}
+{"level":"error","message":"Media validation failed for uploads\\c851031808ffa39e75877a3b16348888: Unsupported file extension: ","timestamp":"2025-05-28T19:32:02.204Z"}
+{"level":"info","message":"Parsed number: +919822612701, Country: IN, Valid: true","timestamp":"2025-05-28T19:32:02.205Z"}
+{"level":"info","message":"Sent text to 919822612701@c.us","timestamp":"2025-05-28T19:32:04.307Z"}
+{"level":"info","message":"Parsed number: +919923414267, Country: IN, Valid: true","timestamp":"2025-05-28T19:32:13.315Z"}
+{"level":"info","message":"Sent text to 919923414267@c.us","timestamp":"2025-05-28T19:32:13.328Z"}
+{"level":"info","message":"Parsed number: +918600544999, Country: IN, Valid: true","timestamp":"2025-05-28T19:32:18.486Z"}
+{"level":"info","message":"Sent text to 918600544999@c.us","timestamp":"2025-05-28T19:32:18.496Z"}
+{"level":"info","message":"Processed 3 messages successfully.","timestamp":"2025-05-28T19:32:28.154Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-28T19:38:57.552Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-28T19:39:04.637Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-28T19:39:04.642Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-28T19:39:09.494Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-30T14:39:05.509Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-30T14:39:05.515Z"}
+{"level":"error","message":"Unsupported file extension: . Allowed extensions are: .jpg, .jpeg, .png, .mp4, .gif, .webp","timestamp":"2025-05-30T14:39:05.529Z"}
+{"level":"error","message":"Media validation failed for uploads\\fab92edbd4a257ef27e3190c3dfdcfe5: Unsupported file extension: . Allowed extensions are: .jpg, .jpeg, .png, .mp4, .gif, .webp","timestamp":"2025-05-30T14:39:05.533Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-30T14:47:55.455Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-30T14:48:06.354Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-30T14:48:06.361Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-30T14:48:06.776Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-30T14:48:15.531Z"}
+{"level":"info","message":"Uploaded file details: {\"fieldname\":\"media\",\"originalname\":\"20140222_173705.jpg\",\"encoding\":\"7bit\",\"mimetype\":\"image/jpeg\",\"destination\":\"uploads/\",\"filename\":\"1748616544289-523849006.jpg\",\"path\":\"uploads\\\\1748616544289-523849006.jpg\",\"size\":2583777}","timestamp":"2025-05-30T14:49:04.320Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-30T14:49:04.320Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-30T14:49:04.321Z"}
+{"level":"info","message":"Validating media file: uploads\\1748616544289-523849006.jpg","timestamp":"2025-05-30T14:49:04.322Z"}
+{"level":"info","message":"File exists: uploads\\1748616544289-523849006.jpg","timestamp":"2025-05-30T14:49:04.325Z"}
+{"level":"info","message":"File size 2.46MB is within limits","timestamp":"2025-05-30T14:49:04.327Z"}
+{"level":"info","message":"File extension .jpg is supported","timestamp":"2025-05-30T14:49:04.327Z"}
+{"level":"info","message":"Successfully loaded media: uploads\\1748616544289-523849006.jpg","timestamp":"2025-05-30T14:49:04.334Z"}
+{"level":"info","message":"Parsed number: +919822612701, Country: IN, Valid: true","timestamp":"2025-05-30T14:49:04.344Z"}
+{"level":"info","message":"Sent text to 919822612701@c.us","timestamp":"2025-05-30T14:49:04.366Z"}
+{"level":"info","message":"Sent media to 919822612701@c.us","timestamp":"2025-05-30T14:49:07.225Z"}
+{"level":"info","message":"Parsed number: +919923414267, Country: IN, Valid: true","timestamp":"2025-05-30T14:49:16.241Z"}
+{"level":"info","message":"Sent text to 919923414267@c.us","timestamp":"2025-05-30T14:49:16.258Z"}
+{"level":"info","message":"Sent media to 919923414267@c.us","timestamp":"2025-05-30T14:49:16.856Z"}
+{"level":"info","message":"Parsed number: +918600544999, Country: IN, Valid: true","timestamp":"2025-05-30T14:49:31.277Z"}
+{"level":"info","message":"Sent text to 918600544999@c.us","timestamp":"2025-05-30T14:49:31.296Z"}
+{"level":"info","message":"Sent media to 918600544999@c.us","timestamp":"2025-05-30T14:49:31.867Z"}
+{"level":"info","message":"Processed 3 messages successfully.","timestamp":"2025-05-30T14:49:37.954Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-30T14:50:44.408Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-30T14:50:48.392Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-30T14:50:56.873Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-30T14:50:56.876Z"}
+{"level":"info","message":"Loading screen: 95% - WhatsApp","timestamp":"2025-05-30T14:50:58.043Z"}
+{"level":"info","message":"Loading screen: 97% - WhatsApp","timestamp":"2025-05-30T14:51:01.980Z"}
+{"level":"info","message":"Loading screen: 99% - WhatsApp","timestamp":"2025-05-30T14:51:02.130Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-30T14:51:02.280Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-30T15:01:38.031Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-30T15:01:46.600Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-30T15:01:46.603Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-30T15:01:47.047Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-30T15:01:52.333Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-30T16:39:39.014Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-30T16:39:47.508Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-30T16:39:47.549Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-30T16:39:47.556Z"}
+{"level":"info","message":"Loading screen: 95% - WhatsApp","timestamp":"2025-05-30T16:40:06.902Z"}
+{"level":"info","message":"Loading screen: 99% - WhatsApp","timestamp":"2025-05-30T16:40:07.123Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-30T16:40:29.663Z"}
+{"level":"info","message":"Uploaded file details: {\"fieldname\":\"media\",\"originalname\":\"DSC04989.JPG\",\"encoding\":\"7bit\",\"mimetype\":\"image/jpeg\",\"destination\":\"uploads/\",\"filename\":\"1748623326040-711321386.jpg\",\"path\":\"uploads\\\\1748623326040-711321386.jpg\",\"size\":550484}","timestamp":"2025-05-30T16:42:06.063Z"}
+{"level":"info","message":"Received numbers: +919822612701,+919923414267,+918600544999","timestamp":"2025-05-30T16:42:06.064Z"}
+{"level":"info","message":"Number list after splitting: [\"+919822612701\",\"+919923414267\",\"+918600544999\"]","timestamp":"2025-05-30T16:42:06.064Z"}
+{"level":"info","message":"Validating media file: uploads\\1748623326040-711321386.jpg","timestamp":"2025-05-30T16:42:06.066Z"}
+{"level":"info","message":"File exists: uploads\\1748623326040-711321386.jpg","timestamp":"2025-05-30T16:42:06.068Z"}
+{"level":"info","message":"File size 0.52MB is within limits","timestamp":"2025-05-30T16:42:06.070Z"}
+{"level":"info","message":"File extension .jpg is supported","timestamp":"2025-05-30T16:42:06.071Z"}
+{"level":"info","message":"Successfully loaded media: uploads\\1748623326040-711321386.jpg","timestamp":"2025-05-30T16:42:06.074Z"}
+{"level":"info","message":"Parsed number: +919822612701, Country: IN, Valid: true","timestamp":"2025-05-30T16:42:06.080Z"}
+{"level":"info","message":"Sent text to 919822612701@c.us","timestamp":"2025-05-30T16:42:06.098Z"}
+{"level":"info","message":"Sent media to 919822612701@c.us","timestamp":"2025-05-30T16:42:08.150Z"}
+{"level":"info","message":"Parsed number: +919923414267, Country: IN, Valid: true","timestamp":"2025-05-30T16:42:16.307Z"}
+{"level":"info","message":"Sent text to 919923414267@c.us","timestamp":"2025-05-30T16:42:16.322Z"}
+{"level":"info","message":"Sent media to 919923414267@c.us","timestamp":"2025-05-30T16:42:16.545Z"}
+{"level":"info","message":"Parsed number: +918600544999, Country: IN, Valid: true","timestamp":"2025-05-30T16:42:25.830Z"}
+{"level":"info","message":"Sent text to 918600544999@c.us","timestamp":"2025-05-30T16:42:25.845Z"}
+{"level":"info","message":"Sent media to 918600544999@c.us","timestamp":"2025-05-30T16:42:26.243Z"}
+{"level":"info","message":"Processed 3 messages successfully.","timestamp":"2025-05-30T16:42:31.931Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-30T16:47:37.595Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-30T16:47:45.630Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-30T16:47:45.633Z"}
+{"level":"info","message":"Loading screen: 95% - WhatsApp","timestamp":"2025-05-30T16:47:46.152Z"}
+{"level":"info","message":"Loading screen: 97% - WhatsApp","timestamp":"2025-05-30T16:47:56.045Z"}
+{"level":"info","message":"Loading screen: 99% - WhatsApp","timestamp":"2025-05-30T16:47:56.483Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-30T16:47:56.632Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-05-31T04:30:49.254Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-31T04:30:55.701Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-05-31T04:30:55.708Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-05-31T04:30:55.709Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-31T04:31:55.573Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-31T04:32:15.568Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-31T04:32:35.565Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-31T04:32:55.574Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-05-31T04:33:15.605Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-05-31T04:33:24.088Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-05-31T04:33:33.653Z"}
+{"level":"info","message":"Uploaded file details: {\"fieldname\":\"media\",\"originalname\":\"WhatsApp Image 2025-05-31 at 10.05.56_cd84c1cb.jpg\",\"encoding\":\"7bit\",\"mimetype\":\"image/jpeg\",\"destination\":\"uploads/\",\"filename\":\"1748666209254-283786028.jpg\",\"path\":\"uploads\\\\1748666209254-283786028.jpg\",\"size\":55482}","timestamp":"2025-05-31T04:36:49.256Z"}
+{"level":"info","message":"Received numbers: +917757014144,+919923177599,+917263877939,+917757018188","timestamp":"2025-05-31T04:36:49.256Z"}
+{"level":"info","message":"Number list after splitting: [\"+917757014144\",\"+919923177599\",\"+917263877939\",\"+917757018188\"]","timestamp":"2025-05-31T04:36:49.256Z"}
+{"level":"info","message":"Validating media file: uploads\\1748666209254-283786028.jpg","timestamp":"2025-05-31T04:36:49.257Z"}
+{"level":"info","message":"File exists: uploads\\1748666209254-283786028.jpg","timestamp":"2025-05-31T04:36:49.261Z"}
+{"level":"info","message":"File size 0.05MB is within limits","timestamp":"2025-05-31T04:36:49.262Z"}
+{"level":"info","message":"File extension .jpg is supported","timestamp":"2025-05-31T04:36:49.262Z"}
+{"level":"info","message":"Successfully loaded media: uploads\\1748666209254-283786028.jpg","timestamp":"2025-05-31T04:36:49.263Z"}
+{"level":"info","message":"Parsed number: +917757014144, Country: IN, Valid: true","timestamp":"2025-05-31T04:36:49.267Z"}
+{"level":"error","message":"Failed to simulate typing for 917757014144@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:36:49.434Z"}
+{"level":"info","message":"Sent text to 917757014144@c.us: Hello! Just wanted to say: old picture Thanks.","timestamp":"2025-05-31T04:36:49.447Z"}
+{"level":"error","message":"Failed to simulate typing for 917757014144@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:36:49.448Z"}
+{"level":"info","message":"Sent media to 917757014144@c.us","timestamp":"2025-05-31T04:36:50.889Z"}
+{"level":"info","message":"Parsed number: +919923177599, Country: IN, Valid: true","timestamp":"2025-05-31T04:36:58.088Z"}
+{"level":"error","message":"Failed to simulate typing for 919923177599@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:36:58.253Z"}
+{"level":"info","message":"Sent text to 919923177599@c.us: Hey! Just wanted to say: old picture Best regards.","timestamp":"2025-05-31T04:36:58.260Z"}
+{"level":"error","message":"Failed to simulate typing for 919923177599@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:36:58.261Z"}
+{"level":"info","message":"Sent media to 919923177599@c.us","timestamp":"2025-05-31T04:36:58.288Z"}
+{"level":"info","message":"Parsed number: +917263877939, Country: IN, Valid: true","timestamp":"2025-05-31T04:37:05.422Z"}
+{"level":"error","message":"Failed to simulate typing for 917263877939@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:37:05.585Z"}
+{"level":"info","message":"Sent text to 917263877939@c.us: Hi! old picture Hope you're doing well! Best regards.","timestamp":"2025-05-31T04:37:05.589Z"}
+{"level":"error","message":"Failed to simulate typing for 917263877939@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:37:05.590Z"}
+{"level":"info","message":"Sent media to 917263877939@c.us","timestamp":"2025-05-31T04:37:05.613Z"}
+{"level":"info","message":"Parsed number: +917757018188, Country: IN, Valid: true","timestamp":"2025-05-31T04:37:18.766Z"}
+{"level":"error","message":"Failed to simulate typing for 917757018188@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:37:18.965Z"}
+{"level":"info","message":"Sent text to 917757018188@c.us: Hey! Just wanted to say: old picture Thanks.","timestamp":"2025-05-31T04:37:18.974Z"}
+{"level":"error","message":"Failed to simulate typing for 917757018188@c.us: client.sendPresenceUpdate is not a function","timestamp":"2025-05-31T04:37:18.974Z"}
+{"level":"info","message":"Sent media to 917757018188@c.us","timestamp":"2025-05-31T04:37:19.000Z"}
+{"level":"info","message":"Processed 4 messages successfully.","timestamp":"2025-05-31T04:37:30.963Z"}
+{"level":"info","message":"Deleted media file: uploads\\1748666209254-283786028.jpg","timestamp":"2025-05-31T04:37:30.965Z"}
+{"level":"info","message":"Initializing WhatsApp client...","timestamp":"2025-07-02T18:04:31.132Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-07-02T18:04:46.157Z"}
+{"level":"info","message":"WhatsApp client initialization complete.","timestamp":"2025-07-02T18:04:46.164Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-07-02T18:04:46.166Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-07-02T18:05:46.045Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-07-02T18:06:06.035Z"}
+{"level":"info","message":"QR code generated.","timestamp":"2025-07-02T18:06:26.063Z"}
+{"level":"info","message":"Loading screen: 100% - WhatsApp","timestamp":"2025-07-02T18:06:36.239Z"}
+{"level":"info","message":"WhatsApp client is ready.","timestamp":"2025-07-02T18:06:49.224Z"}
