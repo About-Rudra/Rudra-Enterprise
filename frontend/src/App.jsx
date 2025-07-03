@@ -11,8 +11,9 @@ import QRCodeDisplay from '../components/QRCodeDisplay.jsx';
 import ProgressTracker from '../components/ProgressTracker.jsx';
 
 
-const socket = io('http://localhost:3000', { 
-  transports: ['websocket'],
+const socket = io('https://rudra-enterprise-egdk.onrender.com', { 
+   transports: ["websocket"],
+  withCredentials: true,
   reconnection: true,
   reconnectionAttempts: Infinity,
   reconnectionDelay: 1000,
@@ -32,7 +33,7 @@ function App() {
     const fetchQrCode = async (retries = 5, delay = 2000) => {
       for (let attempt = 1; attempt <= retries; attempt++) {
         try {
-          const qrRes = await axios.get('http://localhost:3000/qr');
+          const qrRes = await axios.get('https://rudra-enterprise-egdk.onrender.com/qr', );
           if (qrRes.data.qr) {
             setQrCode(qrRes.data.qr);
             return true;
@@ -50,7 +51,7 @@ function App() {
 
     const checkAuth = async () => {
       try {
-        const res = await axios.get('http://localhost:3000/auth-status');
+        const res = await axios.get('https://rudra-enterprise-egdk.onrender.com/auth-status', );
         console.log('Auth status response:', res.data);
         setAuthenticated(res.data.authenticated);
         if (!res.data.authenticated) {
@@ -222,7 +223,7 @@ function App() {
     images.forEach((image) => formData.append('media', image));
 
     try {
-      await axios.post('http://localhost:3000/send', formData, {
+      await axios.post('https://rudra-enterprise-egdk.onrender.com/send', formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
     } catch (err) {
