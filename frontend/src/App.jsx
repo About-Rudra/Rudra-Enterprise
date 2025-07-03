@@ -4,7 +4,7 @@ import io from 'socket.io-client';
 import { Phone, FileText, Image, Send } from 'lucide-react';
 import './App.css';
 import Navbar from '../components/Navbar.jsx';
-import FileUpload from '/./components/FileUpload.jsx';
+import FileUpload from '../components/FileUpload.jsx';
 import MessageInput from '../components/MessageInput.jsx';
 import ImageUpload from '../components/ImageUpload.jsx';
 import QRCodeDisplay from '../components/QRCodeDisplay.jsx';
