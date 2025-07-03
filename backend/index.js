@@ -9,6 +9,7 @@ const { Server } = require('socket.io');
 const http = require('http');
 const QRCode = require('qrcode');
 const cors = require('cors');
+require('dotenv').config();
 
 // Ensure logs directory exists
 const logsDir = path.join(__dirname, 'logs');
@@ -31,11 +32,25 @@ const logger = winston.createLogger({
     ]
 });
 
+
 // Configuration
-const config = require('./config.json');
+const config = {
+    numbersPath: process.env.NUMBERS_PATH,
+    message: process.env.MESSAGE,
+    mediaPath: process.env.MEDIA_PATH,
+    delayMin: parseInt(process.env.DELAY_MIN),
+    delayMax: parseInt(process.env.DELAY_MAX),
+    batchSize: parseInt(process.env.BATCH_SIZE),
+    maxMessagesPerSession: parseInt(process.env.MAX_MESSAGES_PER_SESSION),
+    maxRetries: parseInt(process.env.MAX_RETRIES),
+    retryDelayMin: parseInt(process.env.RETRY_DELAY_MIN),
+    retryDelayMax: parseInt(process.env.RETRY_DELAY_MAX),
+    frontendOrigin: process.env.FRONTEND_ORIGIN
+};
+
 
 // Validate config
-if (!config.numbersPath || !config.message || config.delayMin > config.delayMax || config.retryDelayMin > config.retryDelayMax) {
+if (!config.numbersPath || !config.message || isNaN(config.delayMin) || isNaN(config.delayMax) || config.delayMin > config.delayMax || config.retryDelayMin > config.retryDelayMax) {
     logger.error('Invalid configuration in config.json');
     process.exit(1);
 }
@@ -59,17 +74,18 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
-        origin: 'http://localhost:5173',
+        origin: config.frontendOrigin  || 'http://localhost:5173',,
         methods: ['GET', 'POST']
     }
 });
 
 // Add CORS middleware
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: config.frontendOrigin  || 'http://localhost:5173', // Default to local frontend if not specified
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type']
 }));
+
 
 // Initialize WhatsApp client
 const client = new Client({
@@ -131,7 +147,7 @@ async function validateMedia(filePath) {
         logger.info(`Validating media file: ${filePath}`);
         await fs.access(filePath);
         logger.info(`File exists: ${filePath}`);
-        
+
         const stats = await fs.stat(filePath);
         const fileSizeInMB = stats.size / (1024 * 1024);
         const ext = path.extname(filePath).toLowerCase();
@@ -143,7 +159,7 @@ async function validateMedia(filePath) {
             throw new Error(errorMsg);
         }
         logger.info(`File size ${fileSizeInMB.toFixed(2)}MB is within limits`);
-        
+
         const allowedExts = ['.jpg', '.jpeg', '.png', '.mp4', '.gif', '.webp'];
         if (!allowedExts.includes(ext)) {
             const errorMsg = `Unsupported file extension: ${ext}. Allowed extensions are: ${allowedExts.join(', ')}`;
@@ -151,7 +167,7 @@ async function validateMedia(filePath) {
             throw new Error(errorMsg);
         }
         logger.info(`File extension ${ext} is supported`);
-        
+
         const media = MessageMedia.fromFilePath(filePath);
         logger.info(`Successfully loaded media: ${filePath}`);
         return media;
@@ -258,7 +274,7 @@ async function processNumbers(numbers, message, mediaPath) {
         }
 
         const batch = numbers.slice(i, i + config.batchSize);
-        
+
         for (const number of batch) {
             if (sentCount >= config.maxMessagesPerSession) {
                 const skipped = numbers.slice(i);
@@ -300,7 +316,7 @@ async function processNumbers(numbers, message, mediaPath) {
                     sendingStatus.logs.push(`Failed to send to ${chatId}`);
                 }
                 io.emit('status-update', sendingStatus);
-                
+
                 // Longer delay to mimic human behavior
                 const delay = getRandomDelay(config.delayMin, config.delayMax);
                 await new Promise(resolve => setTimeout(resolve, delay));
@@ -432,6 +448,6 @@ app.get('/status', (req, res) => {
             logger.info('Server running on http://localhost:3000');
         });
     } catch (err) {
-        logger.error(`Initialization failed: ${err.message}`); 
+        logger.error(`Initialization failed: ${err.message}`);
     }
 })();
