@@ -3,12 +3,12 @@ import axios from 'axios';
 import io from 'socket.io-client';
 import { Phone, FileText, Image, Send } from 'lucide-react';
 import './App.css';
-import Navbar from '/./WhatsappSender/frontend/components/Navbar.jsx';
-import FileUpload from '/./WhatsappSender/frontend/components/FileUpload.jsx';
-import MessageInput from '/./WhatsappSender/frontend/components/MessageInput.jsx';
-import ImageUpload from '/./WhatsappSender/frontend/components/ImageUpload.jsx';
-import QRCodeDisplay from '/./WhatsappSender/frontend/components/QRCodeDisplay.jsx';
-import ProgressTracker from '/./WhatsappSender/frontend/components/ProgressTracker.jsx';
+import Navbar from '../components/Navbar.jsx';
+import FileUpload from '/./components/FileUpload.jsx';
+import MessageInput from '../components/MessageInput.jsx';
+import ImageUpload from '../components/ImageUpload.jsx';
+import QRCodeDisplay from '../components/QRCodeDisplay.jsx';
+import ProgressTracker from '../components/ProgressTracker.jsx';
 
 
 const socket = io('http://localhost:3000', { 
